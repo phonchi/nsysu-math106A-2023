@@ -7,15 +7,17 @@ permalink: /materials/
 <!---{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}--->
 
 ## Book
-* [Foundations of Computer Science, 4th Ed](https://www.cengageasia.com/TitleDetails/isbn/9781473751040)
+* [Automate the Boring Stuff with Python, 2nd Edition](https://automatetheboringstuff.com/#toc)
+* [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
+* [Scipy Lecture Notes](https://scipy-lectures.org/)
 
-## Reference book
-* [Computer Science: An Overview, Global Edition, 13th Edition](https://www.pearsonelt.ch/HigherEducation/ComputerScience/IntroductoryComputerScience/EAN/9781292263427/Computer-Science-An-Overview-Global-Edition)
 
 ## MOOC
-* [NTU introduction to computer science](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S210)
-* [learncomputerscienceonline](https://www.learncomputerscienceonline.com/)
-* [Nand2Tetris](https://www.nand2tetris.org/)
+* [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/)
+* [NTU programming](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/106S103/1)
+* [NCCU programming](https://ctld.video.nccu.edu.tw/km/1399)
+* [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+* [Python Tutorials](https://www.youtube.com/watch?v=wqRlKVRUV_k)
 * [cs50](https://cs50.harvard.edu/x/2022/)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
@@ -23,10 +25,9 @@ permalink: /materials/
 ### Collections
 * [CS Fundamental resources](https://github.com/tagnja/resources-of-learning/blob/master/%23cs-foundations.md)
 * [Open Source Society University](https://github.com/ossu/computer-science#intro-cs)
+* [Invent with python](https://inventwithpython.com/)
 
 ### Simulators
-* [logic.ly](https://logic.ly/)
-* [Simple computer simulator](https://www.101computing.net/lmc-simulator/)
 * [pythontutor](https://pythontutor.com/)
 
 ### Programming Environment
@@ -35,11 +36,13 @@ permalink: /materials/
 * [Google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
 ### Learning Python
+* [ZeroJudge](https://zerojudge.tw/)
+* [hackerrank](https://www.hackerrank.com/domains/python)
 * [Cheat sheet](https://github.com/ehmatthes/pcc_2e/blob/master/cheat_sheets/beginners_python_cheat_sheet_pcc_all.pdf)
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Python for everybody](https://www.py4e.com/)
 * [Introduction to computer science and programming in python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-* [Python scientific computing](https://scipy-lectures.org/)
+* [C++ for Python Programmers](https://cs.berea.edu//cpp4python/index.html)
 
 ### Learning English
 * [VoiceTube](https://tw.voicetube.com/)
