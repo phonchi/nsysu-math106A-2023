@@ -1,9 +1,9 @@
 # Site settings
-course_name: Introduction To Computer Science
-course_description: "Computers play an essential part in our daily life and we will learn the basic ideas behind your laptop and smartphone. Specifically, we will give an overview of the computer science landscape, including the hardware, software, and applications. We will also cover basic programming language (Python) in the second half of the semester."
-course_semester: "Fall 2022"
+course_name: Computer Programming
+course_description: "This is an introductory programming course for students who need a basic understanding of procedural programming and object-oriented programming concepts using Python 3. We will have hands-on exercises and quizzes to help you get familiar with each topic, and students will exercise logical thinking and programming skills for dealing with scientific problems."
+course_semester: "Spring 2023"
 
-baseurl: "/nsysu-math105A/" # the subpath of your site, e.g. /blog/
+baseurl: "/nsysu-math106A" # the subpath of your site, e.g. /blog/
 url: "https://phonchi.github.io/" # the base hostname & protocol for your site
 
 schoolname: "National Sun Yat-Sen University"
