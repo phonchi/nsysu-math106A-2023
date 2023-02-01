@@ -11,6 +11,9 @@ permalink: /materials/
 * [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
 * [Scipy Lecture Notes](https://scipy-lectures.org/)
 
+## Reference Book
+* [Intro to Python for Computer Science and Data Science](https://www.amazon.com/Intro-Python-Computer-Science-Data/dp/1292364904)
+
 
 ## MOOC
 * [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/)
