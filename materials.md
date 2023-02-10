@@ -13,7 +13,7 @@ permalink: /materials/
 
 ## Reference Book
 * [Intro to Python for Computer Science and Data Science](https://www.amazon.com/Intro-Python-Computer-Science-Data/dp/1292364904)
-* https://www.books.com.tw/products/0010922575
+* [https://www.books.com.tw/products/0010922575](https://www.books.com.tw/products/0010922575)
 
 
 ## MOOC
