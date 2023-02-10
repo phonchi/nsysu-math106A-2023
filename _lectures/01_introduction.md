@@ -16,5 +16,5 @@ links:
 - [Notes](https://hackmd.io/@phonchi/programming-ch1)
 - [Basic editing in VS code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks#_table-of-contents)
 - [Notice about VS code](https://hackmd.io/tvg6sUh6SxiVMEfypAwW9A)
-- Chapter 1 of ABSP
+- [Chapter 1 of ABSP](https://automatetheboringstuff.com/2e/chapter1/)
 
