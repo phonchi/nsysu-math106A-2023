@@ -13,6 +13,8 @@ links:
 ---
 **Suggested Readings:**
 - [Programming languages](https://github.com/phonchi/nsysu-math105A/blob/master/static_files/presentations/03_Basic_structure.ipynb)
+- [Notes](https://hackmd.io/@phonchi/programming-ch1)
 - [Basic editing in VS code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks#_table-of-contents)
+- [Notice about VS code](https://hackmd.io/tvg6sUh6SxiVMEfypAwW9A)
 - Chapter 1 of ABSP
 
