@@ -13,6 +13,7 @@ permalink: /materials/
 
 ## Reference Book
 * [Intro to Python for Computer Science and Data Science](https://www.amazon.com/Intro-Python-Computer-Science-Data/dp/1292364904)
+* https://www.books.com.tw/products/0010922575
 
 
 ## MOOC
@@ -39,13 +40,18 @@ permalink: /materials/
 * [Google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
 ### Learning Python
-* [ZeroJudge](https://zerojudge.tw/)
-* [hackerrank](https://www.hackerrank.com/domains/python)
-* [Cheat sheet](https://github.com/ehmatthes/pcc_2e/blob/master/cheat_sheets/beginners_python_cheat_sheet_pcc_all.pdf)
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Python for everybody](https://www.py4e.com/)
 * [Introduction to computer science and programming in python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [C++ for Python Programmers](https://cs.berea.edu//cpp4python/index.html)
+* [Cheat sheet](https://github.com/ehmatthes/pcc_2e/blob/master/cheat_sheets/beginners_python_cheat_sheet_pcc_all.pdf)
+
+### Practicing
+* [hackerrank](https://www.hackerrank.com/domains/python)
+* [W3C](https://www.w3schools.com/python/python_exercises.asp)
+* [ZeroJudge](https://zerojudge.tw/)
+* [More](https://geekflare.com/coding-challenges-to-sharpen-thinking/)
+
 
 ### Learning English
 * [VoiceTube](https://tw.voicetube.com/)
