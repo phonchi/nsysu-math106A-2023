@@ -43,10 +43,10 @@ permalink: /materials/
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Python for everybody](https://www.py4e.com/)
 * [Introduction to computer science and programming in python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-* [C++ for Python Programmers](https://cs.berea.edu//cpp4python/index.html)
-* [Cheat sheet](https://github.com/ehmatthes/pcc_2e/blob/master/cheat_sheets/beginners_python_cheat_sheet_pcc_all.pdf)
+* [Cheat sheet](https://quickref.me/python#python-strings)
 * [Another cheat sheet](https://www.pythoncheatsheet.org/)
 * [Mathematical Python](https://patrickwalls.github.io/mathematicalpython/)
+* [C++ for Python Programmers](https://cs.berea.edu//cpp4python/index.html)
 
 ### Practicing
 * [hackerrank](https://www.hackerrank.com/domains/python)
