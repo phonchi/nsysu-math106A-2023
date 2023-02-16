@@ -60,4 +60,5 @@ permalink: /materials/
 
 ### Others
 * [Digital tools](https://hackmd.io/@phonchi/digital-tools)
+* [Awesome Python](https://awesome-python.com/)
 
