@@ -43,7 +43,7 @@ permalink: /materials/
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Python for everybody](https://www.py4e.com/)
 * [Introduction to computer science and programming in python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-* [Cheat sheet](https://quickref.me/python#python-strings)
+* [Cheat sheet](https://quickref.me/python)
 * [Another cheat sheet](https://www.pythoncheatsheet.org/)
 * [Mathematical Python](https://patrickwalls.github.io/mathematicalpython/)
 * [C++ for Python Programmers](https://cs.berea.edu//cpp4python/index.html)
