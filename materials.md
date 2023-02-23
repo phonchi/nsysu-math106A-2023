@@ -12,7 +12,7 @@ permalink: /materials/
 * [Scipy Lecture Notes](https://scipy-lectures.org/)
 
 ## Reference Book
-* [Intro to Python for Computer Science and Data Science](https://www.amazon.com/Intro-Python-Computer-Science-Data/dp/1292364904)
+* [Intro to Python for Computer Science and Data Science](https://deitel.com/intro-to-python-for-computer-science-and-data-science/)
 * [https://www.books.com.tw/products/0010922575](https://www.books.com.tw/products/0010922575)
 
 
