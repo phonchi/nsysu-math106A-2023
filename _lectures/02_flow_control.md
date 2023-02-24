@@ -13,4 +13,5 @@ links:
 - [Flow control](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/02_Flow_control.ipynb)
 - [Notes](https://hackmd.io/4xhKILyuTnqloE-_-3Gk6w)
 - [Chapter 2 of ABSP](https://automatetheboringstuff.com/2e/chapter2/)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-87VwkO3YwXBaQyksGGAcrFH)
 
