@@ -15,5 +15,5 @@ links:
 **Suggested Readings:**
 - [Functions](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/03_Function.ipynb)
 - [Notes](https://hackmd.io/@phonchi/programming-ch3)
-- [Chapter 2 of ABSP](https://automatetheboringstuff.com/2e/chapter3/)
+- [Chapter 3 of ABSP](https://automatetheboringstuff.com/2e/chapter3/)
 
