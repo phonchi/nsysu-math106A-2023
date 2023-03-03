@@ -14,4 +14,5 @@ links:
 - [Notes](https://hackmd.io/@phonchi/programming-ch2)
 - [Chapter 2 of ABSP](https://automatetheboringstuff.com/2e/chapter2/)
 - [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-87VwkO3YwXBaQyksGGAcrFH)
+- [[Review quizz]](https://wordwall.net/tc/resource/53378537)
 
