@@ -7,11 +7,10 @@ thumbnail:
 hide_from_announcments: true
 links: 
     - url: /static_files/presentations/04_Lists_tuples.ipynb
-      name: CH3 Slides 
+      name: CH4 Slides 
       
 ---
 **Suggested Readings:**
 - [Sequences: Lists and Tuples](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/04_Lists_tuples.ipynb)
 - [Notes](https://hackmd.io/@phonchi/programming-ch4)
 - [Chapter 4 of ABSP](https://automatetheboringstuff.com/2e/chapter4/)
-
