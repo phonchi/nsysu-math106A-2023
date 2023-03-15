@@ -14,4 +14,5 @@ links:
 - [Dictionaries and Sets](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/05_Dictionaries_sets.ipynb)
 - [Notes](https://hackmd.io/@phonchi/programming-ch5)
 - [Chapter 5 of ABSP](https://automatetheboringstuff.com/2e/chapter5/)
+- [Sets](https://realpython.com/python-sets/)
 
