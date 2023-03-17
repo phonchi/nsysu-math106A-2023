@@ -15,4 +15,8 @@ links:
 - [Notes](https://hackmd.io/@phonchi/programming-ch5)
 - [Chapter 5 of ABSP](https://automatetheboringstuff.com/2e/chapter5/)
 - [Sets](https://realpython.com/python-sets/)
+- [StdGame](https://github.com/asweigart/PythonStdioGames)
+- [StdGame2](https://github.com/grantjenks/free-python-games)
+- [StdGame Book](https://inventwithpython.com/invent4thed/)
+- [Pygame](https://inventwithpython.com/pygame/)
 
