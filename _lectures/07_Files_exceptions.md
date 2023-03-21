@@ -11,7 +11,7 @@ links:
       
 ---
 **Suggested Readings:**
-- [Dictionaries and Sets](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/07_Files.ipynb)
+- [Files and Exceptions](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/07_Files.ipynb)
 - [Notes](https://hackmd.io/@phonchi/programming-ch7)
 - [py4e-files](https://www.py4e.com/html3/07-files)
 
