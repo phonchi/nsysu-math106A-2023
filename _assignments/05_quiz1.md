@@ -2,7 +2,7 @@
 type: assignment
 date: 2023-03-21T13:00:00+3:30
 title: 'Take home quiz #1'
-attachment: /static_files/assignments/Quiz1.pdf
+attachment: /static_files/assignments/Quiz1.ipynb
 due_event: 
     type: due
     date: 2023-03-31T09:00:00+3:30
