@@ -20,8 +20,8 @@ permalink: /materials/
 * [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/)
 * [NTU programming](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/106S103/1)
 * [NCCU programming](https://ctld.video.nccu.edu.tw/km/1399)
-* [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
-* [Python Tutorials](https://www.youtube.com/watch?v=wqRlKVRUV_k)
+* [Python Tutorials I](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+* [Python Tutorials II](https://www.youtube.com/watch?v=wqRlKVRUV_k)
 * [cs50](https://cs50.harvard.edu/x/2022/)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
@@ -43,10 +43,10 @@ permalink: /materials/
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Python for everybody](https://www.py4e.com/)
 * [Introduction to computer science and programming in python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-* [Cheat sheet](https://quickref.me/python)
-* [Another cheat sheet](https://www.pythoncheatsheet.org/)
+* [Cheat sheet I](https://quickref.me/python)
+* [Cheat sheet II](https://www.pythoncheatsheet.org/)
 * [Mathematical Python](https://patrickwalls.github.io/mathematicalpython/)
-* [C++ for Python Programmers](https://cs.berea.edu//cpp4python/index.html)
+* [C++ for Python Programmers](https://runestone.academy/ns/books/published/cpp4python/index.html)
 
 ### Practicing
 * [hackerrank](https://www.hackerrank.com/domains/python)
