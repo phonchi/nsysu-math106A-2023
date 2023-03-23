@@ -46,7 +46,8 @@ permalink: /materials/
 * [Cheat sheet I](https://quickref.me/python)
 * [Cheat sheet II](https://www.pythoncheatsheet.org/)
 * [Mathematical Python](https://patrickwalls.github.io/mathematicalpython/)
-* [C++ for Python Programmers](https://runestone.academy/ns/books/published/cpp4python/index.html)
+* [C++ for Python Programmers I](https://runestone.academy/ns/books/published/cpp4python/index.html)
+* [C++ for Python Programmers II](https://cs.kenyon.edu/wp-content/uploads/2020/11/CForPythonProgrammers.pdf)
 
 ### Practicing
 * [hackerrank](https://www.hackerrank.com/domains/python)
