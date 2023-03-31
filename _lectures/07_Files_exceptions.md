@@ -13,5 +13,6 @@ links:
 **Suggested Readings:**
 - [Files and Exceptions](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/07_Files.ipynb)
 - [Notes](https://hackmd.io/@phonchi/programming-ch7)
+- [Review](https://hackmd.io/@phonchi/basic_python)
 - [py4e-files](https://www.py4e.com/html3/07-files)
 
