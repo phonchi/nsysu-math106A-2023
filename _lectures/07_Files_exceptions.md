@@ -15,4 +15,5 @@ links:
 - [Notes](https://hackmd.io/@phonchi/programming-ch7)
 - [Review](https://hackmd.io/@phonchi/basic_python)
 - [py4e-files](https://www.py4e.com/html3/07-files)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-87n0lbM87mrkKeYsXzOGKS-)
 
