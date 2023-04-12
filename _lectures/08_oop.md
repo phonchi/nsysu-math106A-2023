@@ -7,7 +7,7 @@ thumbnail:
 hide_from_announcments: true
 links: 
     - url: /static_files/presentations/08_09_OOP.ipynb
-      name: CH7 Slides 
+      name: CH8 Slides 
       
 ---
 **Suggested Readings:**
