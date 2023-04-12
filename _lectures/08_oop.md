@@ -11,7 +11,7 @@ links:
       
 ---
 **Suggested Readings:**
-- [Files and Exceptions](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/08_09_OOP.ipynb)
+- [Object Oriented Programming and Classes](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/08_09_OOP.ipynb)
 - [Notes](https://hackmd.io/@phonchi/programming-ch8)
 - [Chapter 15-17 of Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/chapter15.html) 
 
