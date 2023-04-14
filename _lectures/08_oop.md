@@ -18,5 +18,6 @@ links:
 - [Chapter 15-17 of Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/chapter15.html) 
 - [Companion book](https://phonchi.github.io/Computer_Programming/)
 - [Mid-term Student Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSc6aDgbilifQgDfvRgBI1-OJ4ApBdiO7npTPDNJw8UvdZ5-Tw/viewform)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-84BrIlZ_oKBgkcoTlXQk9nl)
 
 
