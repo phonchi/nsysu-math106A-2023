@@ -15,5 +15,6 @@ links:
 - [Notes](https://hackmd.io/@phonchi/programming-ch8)
 - [Chapter 15-17 of Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/chapter15.html) 
 - [Reference solution for midterm](https://github.com/phonchi/nsysu-math106A/blob/main/static_files/assignments/Midterm_sol.ipynb)
+- [Companion book](https://phonchi.github.io/Computer_Programming/)
 
 
