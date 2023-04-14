@@ -7,7 +7,7 @@ thumbnail:
 hide_from_announcments: true
 links: 
     - url: /static_files/presentations/00_Copilot.ipynb
-      name: CH8 Slides 
+      name: CH9 Slides 
       
 ---
 **Suggested Readings:**
