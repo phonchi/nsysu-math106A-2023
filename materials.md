@@ -7,6 +7,7 @@ permalink: /materials/
 <!---{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}--->
 
 ## Book
+* [Companion book](https://phonchi.github.io/Computer_Programming/)
 * [Automate the Boring Stuff with Python, 2nd Edition](https://automatetheboringstuff.com/#toc)
 * [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
 * [Scipy Lecture Notes](https://scipy-lectures.org/)
