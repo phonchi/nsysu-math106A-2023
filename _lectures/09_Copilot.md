@@ -13,6 +13,8 @@ links:
 **Suggested Readings:**
 - [Increase productivity and learning with Github Copilot](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/00_Copilot.ipynb)
 - [Apply for Copilot](https://hackmd.io/@phonchi/Apply_Copilot)
+- [Contact Github](https://support.github.com/contact/education)
+- [Discussion Board](https://github.com/orgs/community/discussions/categories/github-education)
 - [[Recorded video]](https://www.youtube.com/watch?v=f1wOnH1ACIc)
 
 
