@@ -11,6 +11,7 @@ links:
 ---
 **Suggested Readings:**
 - [Array-Oriented Programming with NumPy](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/10_11_NumPy.ipynb)
+- [Notes](https://hackmd.io/@phonchi/programming-ch9)
 
 
 
