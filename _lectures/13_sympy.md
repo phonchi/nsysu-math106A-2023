@@ -11,7 +11,7 @@ links:
       
 ---
 **Suggested Readings:**
-- [Symbolic Mathematics in Python with SymPy](13_SymPy.ipynb)
+- [Symbolic Mathematics in Python with SymPy](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/13_SymPy.ipynb)
 
 
 
