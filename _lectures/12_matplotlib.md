@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-05-12
-title: Array-Oriented Programming with NumPy
+title: Visualization with Matplotlib
 tldr: 
 thumbnail: 
 hide_from_announcments: true
