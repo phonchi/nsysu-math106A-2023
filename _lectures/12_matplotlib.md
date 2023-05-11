@@ -13,7 +13,7 @@ links:
       
 ---
 **Suggested Readings:**
-- [Visualization with Matplotlib](12_Matplotlib.ipynb)
+- [Visualization with Matplotlib](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/12_Matplotlib.ipynb)
 
 
 
