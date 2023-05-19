@@ -10,5 +10,6 @@ links:
       
 ---
 **Suggested Readings:**
+- [Notes](https://hackmd.io/@phonchi/programming-ch11)
 
 
