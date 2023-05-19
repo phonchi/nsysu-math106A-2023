@@ -14,6 +14,7 @@ links:
 ---
 **Suggested Readings:**
 - [Visualization with Matplotlib](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/12_Matplotlib.ipynb)
+- [Notes](https://hackmd.io/@phonchi/programming-ch10)
 - [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-8559UgFWru2SHN5vu6hyxxg)
 
 
