@@ -11,7 +11,7 @@ links:
       
 ---
 **Suggested Readings:**
-- [Sequences: Lists and Tuples](https://github.com/phonchi/nsysu-math106A/blob/master/static_files/presentations/04_Lists_tuples.ipynb)
+- [Sequences: Lists and Tuples](https://github.com/phonchi/nsysu-math106A-2023/blob/master/static_files/presentations/04_Lists_tuples.ipynb)
 - [Notes](https://hackmd.io/@phonchi/programming-ch4)
 - [Chapter 4 of ABSP](https://automatetheboringstuff.com/2e/chapter4/)
 - [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-86uJeDYYLtU6P714iAc0ThS)
