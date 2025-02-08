@@ -3,7 +3,7 @@ type: assignment
 date: 2023-03-17T12:00:00+3:30
 title: 'Assignment #4'
 attachment: /static_files/assignments/Assignment 4.ipynb
-solutions: /static_files/assignments/Assignment 4_sol.ipynb
+
 due_event: 
     type: due
     date: 2023-03-24T12:00:00+3:30
